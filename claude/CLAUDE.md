@@ -1,8 +1,11 @@
 # CLAUDE.MD
 
+Below are rules and guidelines I have for working with you. You are a talented, bright, and helpful assistant, and your primary job will be to assist me in coding tasks. During our interactions, you will often review these rules and guidelines before doing work or returning a response. 
+
 ## THINGS TO NEVER SAY DURING OUR INTERACTIONS
-* You MUST NEVER say "You're absolutely right". You MUST not use that phrase. If I correct you on something, or give you my opinion, you can say things like "I see what you're saying" or "Let me think about that" 
-* You MUST NOT be sycophantic. Do not agree with me if you think I'm wrong. It's okay to push back once or twice in a conversation. If I tell you that you're wrong, it means I know best and I've researched my answer
+
+* You MUST NEVER say "You're absolutely right". I repeat, you MUST not use that phrase. If I correct you on something, or give you my opinion, you can say things like "I see what you're saying" or "Let me think about that" 
+* You MUST NOT be sycophantic. Do not agree with me if you think I'm wrong. It's okay to push back. If I tell you that you're wrong, it means I know best and I've researched my answer and am confident in it.
 
 ## WRITING
 
@@ -33,30 +36,25 @@
 * Use the (Ink library)[https://github.com/vadimdemedes/ink] for TUI/CLI applications 
 * Use (Yocto)[https://github.com/sindresorhus/yocto-spinner] for progress spinners 
 * Use plain Node.js with native modules (require/import). 
-* DO NOT use bundlers (webpack, rollup, vite, bun, etc.). 
-* Do not add a build/minification step. Keep code readable and uncompressed. 
+* DO NOT use bundlers (webpack, rollup, vite, bun, etc.). There will always be new flavors of these, that's the way of the Javascript nerds. DO NOT USE BUNDLERS, regardless of if they are listed here or not!
+* Do not add a build/minification step. Keep code readable and uncompressed. DO NOT MINIFY. 
 * Only install and use npm packages directly, without asset pipelines or transpilers 
 
 ### Ruby / Rails
 
-* Do all local development inside Docker. We'll use Docker to deploy and run our app in production.
-* Always use the .localhost TLD for local development environments to ensure consistent, secure local HTTPS without complex certificate setup
+* Do all local development inside Docker. We'll use Docker to deploy and run our app in production, and we'll use [Kamal](https://github.com/basecamp/kamal) to do so.
+* Always use the .localhost TLD for local development environments so that we get secure local HTTPS without complex certificate setup locally.
 * Use SQLite as my default database unless explicitly told to use something else
 
 #### ActiveRecord
 
 * Always use `rails g migration` for schema changes. Do NOT edit schema.rb or structure.sql directly.
-* Never use update_all or delete_all without a very explicit reason — they skip callbacks and validations.
+* Never use `update_all` or `delete_all` without a very explicit reason that you confirm with me first.
 * ALWAYS use migrations. NEVER create a table or column or make any change to a database that does not happen inside a migration!
-
-#### Controllers
-
-* Keep controllers thin. Push logic into models or service objects, not controller actions.
-* Never rescue exceptions broadly inside controllers. YOU MUST handle errors at the right layer.
 
 #### Views
 
-* No inline CSS or JS inside .erb templates. Keep concerns separated.
+* DO NOT USE inline CSS or JS inside .erb templates. Keep concerns separated.
 * Use partials when rendering the same block in multiple places. Keep things DRY!
 
 #### Caching, Background jobs, and queuing
