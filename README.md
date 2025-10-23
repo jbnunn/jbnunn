@@ -1,4 +1,4 @@
-## Hello 🤘
+## 🤘 Hello 
 
 - 👋 I'm @jbnunn 
 - 🌱 My first language was BASIC. Through the years my favorite languages have been PHP -> Ruby -> Python. I tried liking Rust, but it just doesn't do it for me.
