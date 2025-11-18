@@ -6,6 +6,6 @@
 - 🤖 A lot of my repos are from a time when I hacked around on hardware, built robots, and built machine learning models for autonomous driving and navigation.
 - 📓 You can read my blog at [https://www.jeffnunn.com/](https://www.jeffnunn.com).
 - ⚙️ My [dotfiles](https://github.com/jbnunn/dotfiles) contain configurations for my favorite tools.
-- 💻 I currently run a [highly customized Mac OS desktop on an M3 MacBook Pro](./LOCAL_SETUP.md)
+- 💻 I currently run a [highly customized Mac OS desktop on an M3 MacBook Pro](./LOCAL-SETUP.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
