@@ -1,7 +1,8 @@
 # macOS Local Development Setup
 
-This document describes the tools, configs, and workflows I use on my macOS desktop.
-It's mostly here so I can quickly rebuild my environment on a fresh machine.
+This document describes the tools, configs, and workflows I use on my macOS desktop. I've highly customized it to feel more like Arch Linux, while retaining the benefits of being on Mac hardware.
+
+![Desktop](./images/desktop.png)
 
 ## Core Tools
 
