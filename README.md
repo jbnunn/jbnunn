@@ -14,7 +14,7 @@
 
 I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware. I run this on my MacBook Pro M3 MAx.
 
-![Desktop](./images/desktop.png)
+![Desktop](./images/desktop-macos.png)
 
 ### Window management
 - **[Yabai](https://github.com/koekeishiya/yabai)** - Tiling window manager inspired by [Hyprland](https://wiki.archlinux.org/title/Hyprland)
@@ -39,7 +39,9 @@ I've customized macOS to feel more like Arch Linux while keeping the benefits of
 
 ## My Linux setup
 
-I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configuration. I run this on my [Bee-Link SER 5](amazon.com/Beelink-Windows-Display-Output-Computer/dp/B09LV1V5M9) with a AMD Ryzen 5500U.
+I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configuration. I run this on my [Bee-Link SER 5](amazon.com/Beelink-Windows-Display-Output-Computer/dp/B09LV1V5M9) with an AMD Ryzen 5500U.
+
+![Desktop](./images/desktop-omarchy.png)
 
 ### Window management
 
