@@ -10,9 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-## My setup
+## My macOS setup
 
-I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware.
+I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware. I run this on my MacBook Pro M3 MAx.
 
 ![Desktop](./images/desktop.png)
 
@@ -22,13 +22,35 @@ I've customized macOS to feel more like Arch Linux while keeping the benefits of
 - **[SketchyBar](https://github.com/FelixKratz/SketchyBar)** - Customizable status bar with dynamic system info
 
 ### Terminal & shell
-- **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal (recently switched from iTerm2)
-- **[Zsh](https://www.zsh.org/)** - My shell for the past decade
+- **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal (recently switched from iTerm2). I like the way it handles splits better than iTerm2.
+- **[Zsh](https://www.zsh.org/)** - My macOS shell for the past decade
 - **[Starship](https://starship.rs/)** - Minimal, fast prompt
 - **[LazyGit](https://github.com/jesseduffield/lazygit)** - Terminal UI for Git
 - **[FZF](https://github.com/junegunn/fzf)** - Interactive fuzzy finder
 - **[Bat](https://github.com/sharkdp/bat)** - Better `cat` with syntax highlighting
 - **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks
+
+### Development tools
+- **[Neovim](https://neovim.io/)** - Modern, extensible text editor
+
+### Wallpapers
+
+* Credit [https://github.com/dharmx/walls](https://github.com/dharmx/walls)
+
+## My Linux setup
+
+I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configuration. I run this on my [Bee-Link SER 5](amazon.com/Beelink-Windows-Display-Output-Computer/dp/B09LV1V5M9) with a AMD Ryzen 5500U.
+
+### Window management
+
+- **[Hyprland](https://github.com/hyprwm/Hyprland)** - An amazingly beautiful and configurable dynamic tiling window manager with configurable keybindings that let me use the keyboard to navigate the system, launch anything, and rearrange windows and spaces.
+- **[Waybar](https://github.com/Alexays/Waybar)** - Customizable status bar that compliments Hyprland nicely
+
+### Terminal & shell
+- **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal
+- **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)** - I've found on Linux I really don't need zsh. I have everything I need with Bash and Starship.
+- **[Starship](https://starship.rs/)** - Minimal, fast prompt
+- ... lots of other goodies thanks to Omarchy's defaults
 
 ### Development tools
 - **[Neovim](https://neovim.io/)** - Modern, extensible text editor
