@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![Me in the late 90s](./images/jn-97/png)
+![Me in the late 90s](./images/jn-97.png)
 _A peek into the 90's (circa 1997 or 1998), where I was using MATLAB to write my first neural network for an assignment while at UT Dallas. It would be nearly 20 years before I'd write another one._
 
 ## My macOS setup
