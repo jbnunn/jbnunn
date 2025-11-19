@@ -21,7 +21,7 @@ I've customized macOS to feel more like Arch Linux while keeping the benefits of
 - **[skhd](https://github.com/jackielii/skhd.zig)** - Hotkey daemon for keyboard-driven workflow (my favorite: `cmd + return` opens a new terminal)
 - **[SketchyBar](https://github.com/FelixKratz/SketchyBar)** - Customizable status bar with dynamic system info
 
-### Terminal & shell
+### Terminal and shell
 - **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal (recently switched from iTerm2). I like the way it handles splits better than iTerm2.
 - **[Zsh](https://www.zsh.org/)** - My macOS shell for the past decade
 - **[Starship](https://starship.rs/)** - Minimal, fast prompt
@@ -48,12 +48,17 @@ I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configu
 - **[Hyprland](https://github.com/hyprwm/Hyprland)** - An amazingly beautiful and configurable dynamic tiling window manager with configurable keybindings that let me use the keyboard to navigate the system, launch anything, and rearrange windows and spaces.
 - **[Waybar](https://github.com/Alexays/Waybar)** - Customizable status bar that compliments Hyprland nicely
 
-### Terminal & shell
+### Terminal and shell extras
 - **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal
 - **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)** - I've found on Linux I really don't need zsh. I have everything I need with Bash and Starship.
 - **[Starship](https://starship.rs/)** - Minimal, fast prompt
+- **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks
 - ... lots of other goodies thanks to Omarchy's defaults
 
+### Keyboard and mouse
+- **[LoFree Lite 84 keyboard](https://www.lofree.co/products/flow-lite84-mechanical-keyboard)** - I love this thing. I've been on Apple's Magic Keyboards for too long. This is a treat.
+- **[Lofree Touch PBT mouse](https://www.lofree.co/products/lofree-touch-pbt-wireless-mouse?variant=44242527551707)** - This mouse looks like something you'd see on the show Severance. Which is why I bought it.
+  
 ### Development tools
 - **[Neovim](https://neovim.io/)** - Modern, extensible text editor
 
