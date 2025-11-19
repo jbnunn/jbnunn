@@ -50,10 +50,10 @@ I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configu
 
 ### Terminal and shell extras
 - **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal
-- **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)** - I've found on Linux I really don't need zsh. I have everything I need with Bash and Starship.
+- **[Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell)** - I've found on Linux I really don't need zsh. I have everything I need with Bash and Starship.
 - **[Starship](https://starship.rs/)** - Minimal, fast prompt
 - **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks
-- ... lots of other goodies thanks to Omarchy's defaults
+- ... lots of other goodies thanks to [Omarchy's default TUIs](https://learn.omacom.io/2/the-omarchy-manual/59/tuis)
 
 ### Keyboard and mouse
 - **[LoFree Lite 84 keyboard](https://www.lofree.co/products/flow-lite84-mechanical-keyboard)** - I love this thing. I've been on Apple's Magic Keyboards for too long. This is a treat.
