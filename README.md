@@ -10,6 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+![Me in the late 90s](images/jn-97/png)
+_A peek into the 90's (circa 1997 or 1998), where I was using MATLAB to write my first neural network for a grad course at UT Dallas. It would be nearly 20 years before I'd write another one._
+
 ## My macOS setup
 
 I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware. I run this on my MacBook Pro M3 MAx.
@@ -62,6 +65,3 @@ I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configu
 ### Development tools
 - **[Neovim](https://neovim.io/)** - Modern, extensible text editor
 
-### Wallpapers
-
-* Credit [https://github.com/dharmx/walls](https://github.com/dharmx/walls)
