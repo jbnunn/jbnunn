@@ -31,7 +31,8 @@ I've customized macOS to feel more like Arch Linux while keeping the benefits of
 - **[LazyGit](https://github.com/jesseduffield/lazygit)** - Terminal UI for Git
 - **[FZF](https://github.com/junegunn/fzf)** - Interactive fuzzy finder
 - **[Bat](https://github.com/sharkdp/bat)** - Better `cat` with syntax highlighting
-- **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks
+- **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks. Allows me to easily share configs across machines.
+- **[Yazi](https://github.com/sxyazi/yazi)** - Terminal based file manager with an intuitive interface. 
 
 ### Development tools
 - **[Neovim](https://neovim.io/)** - Modern, extensible text editor
@@ -55,7 +56,8 @@ I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configu
 - **[Ghostty](https://ghostty.org/)** - Fast, GPU-accelerated terminal
 - **[Bash](https://en.wikipedia.org/wiki/Bash_Unix_shell)** - I've found on Linux I really don't need zsh. I have everything I need with Bash and Starship.
 - **[Starship](https://starship.rs/)** - Minimal, fast prompt
-- **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks
+- **[Stow](https://www.gnu.org/software/stow/)** - Dotfile management via symlinks. Allows me to easily share configs across machines.
+- **[Yazi](https://github.com/sxyazi/yazi)** - Terminal based file manager with an intuitive interface. 
 - ... lots of other goodies thanks to [Omarchy's preinstalled TUIs](https://learn.omacom.io/2/the-omarchy-manual/59/tuis)
 
 ### Keyboard and mouse
