@@ -1,9 +1,9 @@
 ## 🤘 Hello 
 
-- 👋 I'm @jbnunn
-- I work at AWS but the code here is mine, just like my opinions.
+- I'm @jbnunn
 - My first coding language was BASIC. Through the years my favorite languages have been BASIC ⮕ PHP ⮕ Ruby ⮕ Python. 
 - A lot of my repos are from a time when I hacked around on hardware, built robots, and trained machine learning models for autonomous driving and navigation.
+- I work at AWS but the code here is mine, just like my opinions.
 - You can read my blog at [https://www.jeffnunn.com/](https://www.jeffnunn.com).
 - My [dotfiles](https://github.com/jbnunn/dotfiles) contain configurations for my favorite tools.
 - I run a highly customized macOS desktop on a MacBook Pro with an M3 Max
