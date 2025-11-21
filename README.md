@@ -1,4 +1,4 @@
-## 🤘 Hello 
+## 🤘🏻 Hello 
 
 - I'm @jbnunn
 - My first coding language was BASIC. Through the years my favorite languages have been BASIC ⮕ PHP ⮕ Ruby ⮕ Python. 
