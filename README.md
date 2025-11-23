@@ -45,7 +45,7 @@ I've moved from Ubuntu to [Omarchy](https://omarchy.org/), an Arch Linux configu
 
 ### 2. My macOS setup
 
-I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware. I run this on my MacBook Pro M3 MAx.
+I've customized macOS to feel more like Arch Linux while keeping the benefits of Mac hardware. I run the following on my MacBook Pro M3 Max:
 
 ![Desktop](./images/desktop-macos.png)
 
@@ -67,9 +67,9 @@ I've customized macOS to feel more like Arch Linux while keeping the benefits of
 #### Development tools
 - **[Neovim](https://neovim.io/)** - Modern, extensible text editor
 
-### Wallpapers
+## Wallpapers
 
-* Credit [https://github.com/dharmx/walls](https://github.com/dharmx/walls)
+* So many awesome choices at [https://github.com/dharmx/walls](https://github.com/dharmx/walls)
 
 
 
