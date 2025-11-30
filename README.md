@@ -7,8 +7,7 @@
 - You can read my blog at [https://www.jeffnunn.com/](https://www.jeffnunn.com).
 - My [dotfiles](https://github.com/jbnunn/dotfiles) contain configurations for my favorite tools.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=jbnunn&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Me in the late 90s](./images/jn-97.png)
 
 _A peek into the 90's (circa 1997 or 1998), where I was using MATLAB to write my first neural network for an assignment while at UT Dallas. It would be nearly 20 years before I'd write another one._
