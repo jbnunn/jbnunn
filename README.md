@@ -1,7 +1,8 @@
 ## 🤘🏻 Hello 
 
 - I'm @jbnunn
-- My first coding language was BASIC. Through the years my favorite languages have been BASIC ⮕ PHP ⮕ Ruby ⮕ Python. 
+- My first coding language was BASIC. Through the years my favorite languages have been BASIC ⮕ PHP ⮕ Ruby ⮕ Python.
+  - For 2025-2026, I'm getting deep into low-level development. This has included learning Assembly for the 8086, 6502, and ArmV8 AArch 64 processors.
 - A lot of my repos are from a time when I hacked around on hardware, built robots, and trained machine learning models for autonomous driving and navigation.
 - I work at AWS but the code here is mine, just like my opinions.
 - You can read my blog at [https://www.jeffnunn.com/](https://www.jeffnunn.com).
